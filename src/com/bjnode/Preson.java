@@ -8,5 +8,7 @@ public class Preson {
 
     private String id;
 
+    private String name;
+
 
 }
